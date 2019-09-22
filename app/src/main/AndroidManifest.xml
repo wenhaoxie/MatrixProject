@@ -26,6 +26,10 @@
         </activity>
         <activity android:name=".EventGridActivity" />
         <activity android:name=".MainActivity"></activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCP4oM6xwftNL_HRWtGAAONlCXnnRuRBD8" />
+
     </application>
 
 </manifest>
